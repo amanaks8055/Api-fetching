@@ -1,0 +1,5 @@
+.but{
+    background-color: aqua;
+    flex-direction: column-reverse;
+    -webkit-animation: alternate;background-image: -moz-element();
+}
